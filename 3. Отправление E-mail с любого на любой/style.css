@@ -1,0 +1,160 @@
+body {
+    background-image: url(body.png) ;
+    background-repeat: repeat;
+}
+html{
+    font-family: Arial;
+}
+input{
+    padding-left: 8px;
+    display: block;
+    width: 392px;
+    height: 40px;
+    font-size: 27px;
+    background-color: transparent;
+}
+
+#btnSend{
+    font-size: 25px;
+    background-color: #63c44e;
+    border: none;
+    color: white;
+    box-shadow: 0 0 2px rgba(0,0,0,0.5);
+    width: 400px;
+
+}
+
+#btnSend:hover{
+   cursor: pointer;
+
+}
+
+textarea{
+padding-left: 8px;
+    background-color: transparent;
+    width: 392px;
+    height: 200px;
+    display: block;
+    resize: none;
+    font-size: 15px;
+}
+#EmailSendForm{
+    display: block;
+    margin: auto;
+    height: 596px;
+    width: 459px;
+
+    display: block;
+    margin: auto;
+    border: 2px solid #63c44e;
+
+    border-radius: 5px;
+}
+#sendEmail{
+    display: block;
+    margin: auto;
+    width: 459px;
+    height: 50px;
+    background-color: #63c44e;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    color: white;
+    font-family: Arial;
+    font-size: 30px;
+    text-align: center;
+    line-height: 50px;
+    margin-bottom: 10px;
+}
+#btnSend:hover{
+    outline: none;
+    cursor: pointer;
+    background-color: #33a523;
+}
+#btnSend:active{
+    outline: none;
+    cursor: pointer;
+    background-color: #008e10;
+}
+
+form{
+    width: 405px;
+    height: 596px;
+    display: block;
+    margin: auto;
+}
+input, textarea{
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 13px;
+    margin: 0px auto 15px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #40eb5a;
+    border-image: initial;
+    border-radius: 2px;
+}
+input[name="to"]::-webkit-input-placeholder { color:transparent; }
+input[name="from"]::-webkit-input-placeholder { color:transparent; }
+textarea[name="textarea"]::-webkit-input-placeholder { color:transparent; }
+input[name="topic"]::-webkit-input-placeholder { color:transparent; }
+@media (max-width: 600px) {
+    span{
+        display: none;
+    }
+    #EmailSendForm{
+        width: 100%;
+        height: 282px;
+        border: 1px solid #63c44e;
+    }
+    form{
+        width: 100%;
+        height: 222px;
+    }
+    #btnSend{
+        width: 97%;
+        height: 20px;
+        font-size: 15px;
+        display: block;
+        margin: auto;
+    }
+    textarea{
+        width: 85%;
+        height: 65px;
+        font-family: "Arial Narrow";
+        color: black;
+    }
+    input{
+        margin-bottom: -1px;
+        padding-left: 4px;
+        border-width: 1px;
+        display: block;
+        height: 10px;
+        font-size: 17px;
+        width: 96%;
+        height: 36px;
+    }
+    textarea{
+        padding-left: 4px;
+        border-width: 1px;
+        margin-bottom: 7px;
+        width: 97.8%;
+
+    }
+    html{
+        font-size: 15px;
+    }
+    #sendEmail {
+        height: 30px;
+        width: 100%;
+        font-size: 17px;
+        line-height: 30px;
+    }
+
+
+
+
+    input[type="text"]::-webkit-input-placeholder { color: #434343;font-size:13px;font-family:"Arial Narrow" }
+    textarea[type="text"]::placeholder { color: #434343;font-size:13px;font-family:"Arial Narrow" }
+
+
+
+
+}

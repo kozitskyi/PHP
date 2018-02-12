@@ -1,0 +1,26 @@
+body{
+    background: url(../images/32.jpg) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+.pic1 img{   
+	padding-top: 100px;
+	padding-left: 10px;
+	padding-right: 0px;
+    height: 200px;
+    position: relative;
+  -moz-transition: all 0.3s ease-out;
+ -o-transition: all 0.3s ease-out;
+ -webkit-transition: all 0.3s ease-out;
+ margin:auto;
+ float: left;
+}
+.pic1 img:hover{  
+
+	position: relative;
+     -webkit-transform: scale(2);
+ -moz-transform: scale(2);
+ -o-transform: scale(2);
+}

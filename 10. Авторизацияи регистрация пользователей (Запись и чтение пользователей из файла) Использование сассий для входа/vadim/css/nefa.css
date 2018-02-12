@@ -1,0 +1,53 @@
+ @font-face {
+    font-family: shrift; /* Имя шрифта */
+    src: url(../fonts/shrift.ttf); /* Путь к файлу со шрифтом */
+   }
+body{
+    background: url(../images/32.jpg) repeat-x;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+ .main{
+ 	top: 100px;
+    width: 664px;
+    height: 673px;
+    margin: auto;
+    border-radius: 20px;
+    position: relative;
+ }
+
+ .text{
+ 	bottom: 20px;
+ 	margin: auto;
+position: relative;
+text-align: center;
+    font-family: shrift;
+    font-size: 30px;
+    color: transparent;
+    background-color: #6f0025;
+    background-image: linear-gradient(0deg, red, yellow);
+    -webkit-background-clip: text;
+    background-clip: text;
+ }
+
+.two a{
+	position: absolute;
+
+	font-family: shrift;
+	font-size: 40px;
+	 color: transparent;
+    background-color: #6f0025;
+    background-image: linear-gradient(0deg, red, yellow);
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+
+.two{
+position: absolute;
+    top: 479px;
+    left: 0px;
+    width: 161px;
+    height: 44px;
+}

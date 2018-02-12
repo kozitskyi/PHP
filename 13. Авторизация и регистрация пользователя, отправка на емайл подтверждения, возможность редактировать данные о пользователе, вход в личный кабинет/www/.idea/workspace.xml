@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3807568f-dd10-4e5b-b221-f1f74d862127" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="255" column="14" lean-forward="false" selection-start-line="255" selection-start-column="14" selection-end-line="255" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tpl/templates/index.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/signin.tpl" />
+        <option value="$PROJECT_DIR$/templates/reg.tpl" />
+        <option value="$PROJECT_DIR$/jj.html" />
+        <option value="$PROJECT_DIR$/css/edit_profile_window.css" />
+        <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/templates/profile.tpl" />
+        <option value="$PROJECT_DIR$/templates/profile/index.tpl" />
+        <option value="$PROJECT_DIR$/profile/editUserProfile.php" />
+        <option value="$PROJECT_DIR$/profile/templates/index.tpl" />
+        <option value="$PROJECT_DIR$/templates/index.tpl" />
+        <option value="$PROJECT_DIR$/profile/index.php" />
+        <option value="$PROJECT_DIR$/reg.php" />
+        <option value="$PROJECT_DIR$/signin.php" />
+        <option value="$PROJECT_DIR$/tpl/templates/signin.tpl" />
+        <option value="$PROJECT_DIR$/../LaravelHome/.htaccess" />
+        <option value="$PROJECT_DIR$/Db.class.php" />
+        <option value="$PROJECT_DIR$/DB.class.php" />
+        <option value="$PROJECT_DIR$/Reg.class.php" />
+        <option value="$PROJECT_DIR$/editUserProfile.php" />
+        <option value="$USER_HOME$/Google Диск/ШаГ/PHP/My_Projects/12. Телефонная база данных с БД (Вход в систему, Добавление номеров, выборка номеров без перезагрузки страницы)/Телефонная база данных/php/addPhone.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/../ajax2/ajax.js" />
+        <option value="$PROJECT_DIR$/../ajax2/content.php" />
+        <option value="$PROJECT_DIR$/tpl/templates/profile.tpl" />
+        <option value="$PROJECT_DIR$/tpl/templates/confirmEmail.tpl" />
+        <option value="$PROJECT_DIR$/tpl/templates/error.tpl" />
+        <option value="$PROJECT_DIR$/tpl/templates/message.tpl" />
+        <option value="$PROJECT_DIR$/tpl/templates/reg.tpl" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/tpl/templates/login.tpl" />
+        <option value="$PROJECT_DIR$/tpl/templates/main.tpl" />
+        <option value="$PROJECT_DIR$/js/profileWindow.js" />
+        <option value="$PROJECT_DIR$/js/ajaxEditProfile.js" />
+        <option value="$PROJECT_DIR$/profile.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/js/validation.js" />
+        <option value="$PROJECT_DIR$/activate.php" />
+        <option value="$PROJECT_DIR$/registration.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/User.class.php" />
+        <option value="$PROJECT_DIR$/tpl/templates/index.tpl" />
+        <option value="$PROJECT_DIR$/config.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-111" />
+    <option name="y" value="108" />
+    <option name="width" value="1390" />
+    <option name="height" value="920" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="trainee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trainee" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="trainee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trainee" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="trainee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trainee" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="trainee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trainee" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="trainee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trainee" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="tpl" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="trainee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trainee" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="tpl" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\trainee\profile" />
+      <recent name="C:\OpenServer\domains\trainee\templates\profile" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3807568f-dd10-4e5b-b221-f1f74d862127" name="Default" comment="" />
+      <created>1518001832594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518001832594</updated>
+      <workItem from="1518001835979" duration="1396000" />
+      <workItem from="1518003601492" duration="798000" />
+      <workItem from="1518005422026" duration="1636000" />
+      <workItem from="1518007318644" duration="1784000" />
+      <workItem from="1518009125269" duration="1800000" />
+      <workItem from="1518010966827" duration="1787000" />
+      <workItem from="1518012777951" duration="1780000" />
+      <workItem from="1518014630290" duration="1802000" />
+      <workItem from="1518016551033" duration="1782000" />
+      <workItem from="1518018373446" duration="1706000" />
+      <workItem from="1518020180429" duration="1794000" />
+      <workItem from="1518022006481" duration="1787000" />
+      <workItem from="1518023848678" duration="1791000" />
+      <workItem from="1518025666136" duration="1784000" />
+      <workItem from="1518027469198" duration="1785000" />
+      <workItem from="1518029285701" duration="1186000" />
+      <workItem from="1518032682140" duration="1777000" />
+      <workItem from="1518034483688" duration="1783000" />
+      <workItem from="1518036292713" duration="1787000" />
+      <workItem from="1518038110535" duration="1782000" />
+      <workItem from="1518039931147" duration="1581000" />
+      <workItem from="1518041760663" duration="1791000" />
+      <workItem from="1518043574659" duration="1787000" />
+      <workItem from="1518045385812" duration="1380000" />
+      <workItem from="1518081083191" duration="954000" />
+      <workItem from="1518082906789" duration="1783000" />
+      <workItem from="1518084720021" duration="1781000" />
+      <workItem from="1518086536440" duration="1868000" />
+      <workItem from="1518088434523" duration="1428000" />
+      <workItem from="1518090527741" duration="1777000" />
+      <workItem from="1518092328890" duration="1783000" />
+      <workItem from="1518094184488" duration="1434000" />
+      <workItem from="1518095998657" duration="1794000" />
+      <workItem from="1518097827148" duration="1686000" />
+      <workItem from="1518099646154" duration="1406000" />
+      <workItem from="1518101701473" duration="1112000" />
+      <workItem from="1518103513854" duration="1782000" />
+      <workItem from="1518105327403" duration="1783000" />
+      <workItem from="1518107137596" duration="1782000" />
+      <workItem from="1518108947305" duration="1116000" />
+      <workItem from="1518126140488" duration="1776000" />
+      <workItem from="1518127944763" duration="1784000" />
+      <workItem from="1518129759130" duration="1780000" />
+      <workItem from="1518131563182" duration="1784000" />
+      <workItem from="1518133375519" duration="1781000" />
+      <workItem from="1518135186577" duration="1782000" />
+      <workItem from="1518136999936" duration="345000" />
+      <workItem from="1518171890181" duration="1788000" />
+      <workItem from="1518173701431" duration="1040000" />
+      <workItem from="1518186143821" duration="1784000" />
+      <workItem from="1518187957323" duration="1783000" />
+      <workItem from="1518189768666" duration="1529000" />
+      <workItem from="1518191579484" duration="1841000" />
+      <workItem from="1518193505539" duration="1696000" />
+      <workItem from="1518195312661" duration="1780000" />
+      <workItem from="1518197132868" duration="1793000" />
+      <workItem from="1518198957969" duration="1788000" />
+      <workItem from="1518200764134" duration="1786000" />
+      <workItem from="1518202572458" duration="1885000" />
+      <workItem from="1518204442597" duration="1743000" />
+      <workItem from="1518206247453" duration="1851000" />
+      <workItem from="1518208109608" duration="1655000" />
+      <workItem from="1518209912400" duration="1820000" />
+      <workItem from="1518211751151" duration="1767000" />
+      <workItem from="1518213547370" duration="1845000" />
+      <workItem from="1518215414924" duration="1559000" />
+      <workItem from="1518256522182" duration="1779000" />
+      <workItem from="1518258337948" duration="1789000" />
+      <workItem from="1518260153604" duration="1748000" />
+      <workItem from="1518261966715" duration="1823000" />
+      <workItem from="1518263816434" duration="1783000" />
+      <workItem from="1518265621722" duration="1801000" />
+      <workItem from="1518267444005" duration="1788000" />
+      <workItem from="1518269251919" duration="1811000" />
+      <workItem from="1518271090080" duration="1927000" />
+      <workItem from="1518273776805" duration="1788000" />
+      <workItem from="1518275588814" duration="2173000" />
+      <workItem from="1518277785844" duration="1786000" />
+      <workItem from="1518279600324" duration="1783000" />
+      <workItem from="1518281409505" duration="1790000" />
+      <workItem from="1518283228756" duration="1784000" />
+      <workItem from="1518285057379" duration="1777000" />
+      <workItem from="1518286866331" duration="1780000" />
+      <workItem from="1518288672577" duration="1786000" />
+      <workItem from="1518290493078" duration="1790000" />
+      <workItem from="1518292304747" duration="1786000" />
+      <workItem from="1518294112938" duration="1784000" />
+      <workItem from="1518295929386" duration="1781000" />
+      <workItem from="1518297739862" duration="1789000" />
+      <workItem from="1518299555056" duration="1786000" />
+      <workItem from="1518302014759" duration="1786000" />
+      <workItem from="1518304204574" duration="1555000" />
+      <workItem from="1518337501398" duration="1780000" />
+      <workItem from="1518339308206" duration="1074000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="158707000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22708334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/profile/editUserProfile.php" />
+    <entry file="file://$PROJECT_DIR$/profile/templates/index.tpl" />
+    <entry file="file://$PROJECT_DIR$/templates/index.tpl" />
+    <entry file="file://$PROJECT_DIR$/profile/index.php" />
+    <entry file="file://$USER_HOME$/Google Диск/ШаГ/AJAX_HELP/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Autoloader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1103">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Smarty.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3672">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/trainee/tpl/templates/profile.tpl" />
+    <entry file="file://$USER_HOME$/Desktop/trainee/tpl/templates/index.tpl" />
+    <entry file="file://$PROJECT_DIR$/../LaravelHome/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Google Диск/ШаГ/PHP/My_Projects/12. Телефонная база данных с БД (Вход в систему, Добавление номеров, выборка номеров без перезагрузки страницы)/Телефонная база данных/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tpl/configs/settings.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Google Диск/ШаГ/JavaScript/MyProjects/АвторизацияРегистрацияПанель управления/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="13" lean-forward="false" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Google Диск/ШаГ/PHP/HELP.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Google Диск/ШаГ/PHP/My_Projects/12. Телефонная база данных с БД (Вход в систему, Добавление номеров, выборка номеров без перезагрузки страницы)/Телефонная база данных/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB.class.php" />
+    <entry file="file://$USER_HOME$/Google Диск/ШаГ/PHP/My_Projects/12. Телефонная база данных с БД (Вход в систему, Добавление номеров, выборка номеров без перезагрузки страницы)/Телефонная база данных/php/getPhone.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Google Диск/ШаГ/PHP/My_Projects/12. Телефонная база данных с БД (Вход в систему, Добавление номеров, выборка номеров без перезагрузки страницы)/Телефонная база данных/php/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/superglobals/_superglobals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Google Диск/ШаГ/PHP/My_Projects/3. Отправление E-mail с любого на любой/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Google Диск/ШаГ/PHP/My_Projects/11. Авторизацияи регистрация пользователей (Запись и чтение пользователей из БД) Использование сассий для входа/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Google Диск/ШаГ/PHP/My_Projects/11. Авторизацияи регистрация пользователей (Запись и чтение пользователей из БД) Использование сассий для входа/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-202">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editUserProfile.php" />
+    <entry file="file://$USER_HOME$/Desktop/!!!!trainee/trainee/js/validation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ajax/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ajax2/ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ajax2/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reg.class.php" />
+    <entry file="file://$PROJECT_DIR$/tpl/templates/error.tpl" />
+    <entry file="file://$PROJECT_DIR$/tpl/templates/confirmEmail.tpl" />
+    <entry file="file://$PROJECT_DIR$/tpl/templates/reg.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Google Диск/ШаГ/PHP/My_Projects/12. Телефонная база данных с БД (Вход в систему, Добавление номеров, выборка номеров без перезагрузки страницы)/Телефонная база данных/php/addPhone.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="63" column="83" lean-forward="true" selection-start-line="63" selection-start-column="83" selection-end-line="63" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Google Диск/ШаГ/PHP/My_Projects/11. Авторизацияи регистрация пользователей (Запись и чтение пользователей из БД) Использование сассий для входа/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="57" column="72" lean-forward="false" selection-start-line="57" selection-start-column="61" selection-end-line="57" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tpl/templates/message.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tpl/templates/login.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tpl/templates/main.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ajaxEditProfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/profileWindow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tpl/templates/profile.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="50" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="29" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/User.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="101" column="80" lean-forward="true" selection-start-line="101" selection-start-column="80" selection-end-line="101" selection-end-column="80" />
+          <folding>
+            <marker date="1518339811414" expanded="true" signature="2257:2278" ph="SELECT * FRO... users" />
+            <marker date="1518339811414" expanded="true" signature="2869:2890" ph="SELECT * FRO... users" />
+            <marker date="1518339811414" expanded="true" signature="3455:3476" ph="SELECT * FRO... users" />
+            <marker date="1518339811414" expanded="true" signature="3678:3706" ph="SELECT id FR... users" />
+            <marker date="1518339811414" expanded="true" signature="3678:3729" ph="SELECT id FR... users" />
+            <marker date="1518339811414" expanded="true" signature="3854:3890" ph="UPDATE `user... " />
+            <marker date="1518339811414" expanded="true" signature="3854:3895" ph="UPDATE `user... " />
+            <marker date="1518339811414" expanded="true" signature="3854:3896" ph="UPDATE `user... " />
+            <marker date="1518339811414" expanded="true" signature="3854:3899" ph="UPDATE `user... " />
+            <marker date="1518339811414" expanded="true" signature="3944:3991" ph="UPDATE `user... " />
+            <marker date="1518339811414" expanded="true" signature="5081:5232" ph="INSERT INTO `users`... " />
+            <marker date="1518339811414" expanded="true" signature="5624:5676" ph="UPDATE `user... " />
+            <marker date="1518339811414" expanded="true" signature="5749:5803" ph="UPDATE `user... " />
+            <marker date="1518339811414" expanded="true" signature="5936:5996" ph="UPDATE `user... " />
+            <marker date="1518339811414" expanded="true" signature="6090:6144" ph="UPDATE `user... " />
+            <marker date="1518339811414" expanded="true" signature="6507:6551" ph="SELECT name users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/validation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tpl/templates/index.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="255" column="14" lean-forward="false" selection-start-line="255" selection-start-column="14" selection-end-line="255" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

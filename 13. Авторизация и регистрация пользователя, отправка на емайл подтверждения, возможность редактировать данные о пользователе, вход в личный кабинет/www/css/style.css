@@ -1,0 +1,297 @@
+body,html{
+    margin: 0;
+    height:100%;
+}
+body{
+    display: flex;
+    flex-direction: column;
+}
+#header, #footer{
+    min-width:1000px;
+}
+#header{
+    width: 100%;
+    height:100px;
+    background-color: aqua;
+}
+
+#footer{
+    width: 100%;
+    height:70px;
+    background-color: darkgrey;
+}
+.container_header{
+    margin: auto;
+    height: 100px;
+    width:980px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 50px;
+    line-height: 100px;
+    color: rebeccapurple;
+}
+.container_footer{
+    margin: auto;
+    height: 70px;
+    width:980px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    line-height: 70px;
+    color: rebeccapurple;
+}
+#menu{
+    width: 980px;
+    min-width: 980px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: right;
+    min-height: 65px;
+    font-size: 20px;
+    background-color: #9B410E;
+    display: block;
+    margin: 0 auto;
+}
+#content{
+    width: 980px;
+    padding-left: 10px;
+    padding-right: 10px;
+    min-height: 400px;
+    background-color: blueviolet;
+    margin: auto;
+    flex-grow: 1;
+}
+
+#menu ul li{
+    height: 65px;
+    float: right;
+    list-style-type: none;
+}
+
+#menu ul li a{
+    line-height: 65px;
+    height: 65px;
+    padding-left: 10px;
+    padding-right: 10px;
+    float: right;
+    list-style-type: none;
+    border: none;
+    color: #fafafa;
+    font-family: Algerian;
+    text-decoration: none;
+}
+
+
+#menu ul li a:hover{
+    background-color: #7c1271;
+    cursor: pointer;
+    box-shadow: 1px 4px 11px 4px #80096e;
+}
+#menu ul li a:active{
+    background-color: #4c0d7c;
+}
+
+#menu ul{
+    width: auto;
+    padding: 0;
+    margin: 0;
+    height: 65px;
+}
+
+#menu .main{
+    float: left;
+}
+
+
+.form_design{
+    border: 2px solid #363380;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 20px;
+}
+
+#window_edit_profile{
+    height: 330px;
+    width: 400px;
+    position: absolute;
+    display: none;
+    top: 50%;
+    left: 50%;
+    margin-left: -250px;
+    margin-top: -220px;
+
+}
+
+.reg_form{
+    height: 333px;
+    width: 390px;
+}
+.signin_form{
+    height: 201px;
+    width: 390px;
+}
+
+.head_form{
+    background-color: #363380;
+    margin-bottom: 19px;
+    width: 100%;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    color: white;
+    font-size: 20px;
+}
+
+.form_design input{
+    border: 1px solid #363380;
+    margin: auto;
+    padding: 10px;
+    margin-top: 3px;
+    width: 300px;
+    font-size: 14px;
+    display: block;
+}
+.signin_form input:last-child, .reg_form input:last-child{
+    margin-top: 16px;
+}
+
+#user_info{
+    width: 700px;
+    height: 175px;
+    background-color: #f0ead8;
+    margin: auto;
+    border-radius: 5px;
+
+}
+#btn_edit_profile {
+    margin-left: 20px;
+    margin-top:  17px;
+    width: 200px;
+    height: 30px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+
+.close_window_edit_profile{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: red;
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    position: absolute;
+    right: 2px;
+    top: 2px;
+    cursor: pointer;
+}
+
+
+.page_disabled{
+    width: 100%;
+    height: 100%;
+    background-color: grey;
+    opacity: 0.8;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: none;
+}
+
+.save_edits_profile{
+    width: 100%;
+    height: 40px;
+    bottom: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    cursor: pointer;
+    border-style: none;
+    outline: none;
+    position: relative;
+    top: 35px;
+    background-color: #363380;
+    color: white;
+}
+
+.data_saved{
+    color: green;
+    font-size: 17px;
+    float: right;
+    margin-right: 30px;
+    display: none;
+    margin-top: 19px;
+}
+
+.table_info_user td{
+    padding-left: 20px;
+    font-size: 20px;
+
+}
+.table_info_user{
+    padding-top: 20px;
+}
+
+.welcome{
+    font-size: 50px;
+    color: #ff0515;
+    margin:20px;
+}
+
+.confirm_email{
+    font-size: 20px;
+    margin: 20px;
+    color: #ff4652;
+}
+
+.errors {
+    height: 18px;
+    display: none;
+    color: red;
+    /*margin-left: 40px;*/
+    /*margin-top: 20px;*/
+    position: absolute;
+    bottom: 49px;
+    left: 40px;
+}
+
+.login_error{
+
+    display: block;
+    margin-left: 35px;
+    color: red;
+    margin-top: -32px;
+}
+.reg_error{
+    display: block;
+    margin-left: 35px;
+    color: red;
+    margin-top: -38px;
+}
+
+.image-php img{
+    width: 45%;
+    display: block;
+    margin: auto;
+}
+
+input[type="submit"]{
+    background-color: #363380;
+    width: 100%;
+    cursor: pointer;
+    border-style: none;
+    outline : none;
+    position: relative;
+    top: 30px;
+    color: white;
+    font-size: 15px;
+}
+
+.signin_form input:last-child{
+    margin-top: 320px;
+}
+.reg_form input:last-child{
+    margin-top: 11px;
+}

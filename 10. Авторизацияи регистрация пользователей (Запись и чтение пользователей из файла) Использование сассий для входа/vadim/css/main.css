@@ -1,0 +1,172 @@
+ @font-face {
+    font-family: shrift; /* Имя шрифта */
+    src: url(../fonts/shrift.ttf); /* Путь к файлу со шрифтом */
+   }
+body{
+    background: url(../images/32.jpg) repeat-x;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+.main{
+    background: url(../images/5.jpg) no-repeat;
+    width: 904px;
+    height: 731px;
+    margin: auto;
+    border-radius: 20px;
+    position: relative;
+    background-size: contain;
+}
+.image1{
+    width: 316px;
+    height: 531px;
+    position: absolute;
+    top: 392px;
+    left: 59px;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    -webkit-transition: all 0.3s ease-out;
+    zoom: 55%;
+}
+.image1:hover{
+     -webkit-transform: scale(1.03);
+ -moz-transform: scale(1.03);
+ -o-transform: scale(1.03);
+    width: 316px;
+    height: 531px;
+    position: absolute;
+    bottom: 0px;
+    margin-bottom: 7px;
+    left: 59px;
+    top: 385px;
+
+
+
+}
+.image1 a{
+    width: 317px;
+    height: 532px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+.Vadim{
+	position: absolute;
+    font-family: shrift;
+    font-size: 42px;
+    color: transparent;
+    background-color: #6f0025;
+    background-image: linear-gradient(0deg, green, blue);
+    -webkit-background-clip: text;
+    background-clip: text;
+    right: 88px;
+    top: 128px;
+     -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+}
+
+.kacap{
+    position: absolute;
+    font-family: shrift;
+    font-size: 53px;
+    right: 99px;
+    top: 387px;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+}
+.logout{
+    position: absolute;
+    font-family: shrift;
+    font-size: 16px;
+    right: 15px;
+    top: 9px;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    text-decoration: none;
+
+}
+ .logout a{
+     position: relative;
+     color: transparent;
+     background-color: #6f0025;
+     background-image: linear-gradient(0deg, #7c1271, #ff0515);
+     -webkit-background-clip: text;
+     background-clip: text;
+ }
+ .logout:hover{
+     position: absolute;
+     font-family: shrift;
+
+     background-clip: text;
+     font-size: 17px;
+     right: 17px;
+     top: 10px;
+     -webkit-transition: all 0.4s ease;
+     -moz-transition: all 0.4s ease;
+     -o-transition: all 0.4s ease;
+     box-shadow: 0 0 20px rgba(0,0,0,0.5);
+     border-radius: 5px;
+ }
+
+.kacap:hover{
+    position: absolute;
+    font-family: shrift;
+
+    background-clip: text;
+    font-size: 55px;
+    right: 95px;
+    top: 385px;
+     -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+       box-shadow: 0 0 20px rgba(0,0,0,0.5);
+     border-radius: 10px;
+}
+
+.kacap a{
+    position: relative;
+        color: transparent;
+    background-color: #6f0025;
+    background-image: linear-gradient(0deg, red, yellow);
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+.Vadim a{
+    position: relative;
+	    color: transparent;
+    background-color: #6f0025;
+    background-image: linear-gradient(0deg, green, blue);
+    -webkit-background-clip: text;
+    background-clip: text;
+
+}
+.Vadim:hover{
+	position: absolute;
+    font-family: shrift;
+    font-size: 47px;
+    color: transparent;
+    background-color: #6f0025;
+    background-image: linear-gradient(0deg, green, blue);
+    -webkit-background-clip: text;
+    background-clip: text;
+    right: 65px;
+    top: 125px;
+     cursor: pointer;
+     box-shadow: 0 0 10px rgba(0,0,0,0.5);
+     border-radius: 10px;
+}
+.muz{
+    position: absolute;
+bottom: 0px;
+    right: 0px;
+    border-radius: 20px;
+}
+video{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+}

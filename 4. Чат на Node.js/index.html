@@ -1,0 +1,40 @@
+<!-- /project_dir/index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="main.css">
+    <meta name="robots" content="noindex,nofollow"/>
+    <link rel="shortcut icon" href="favicon.ico" type="image/png">
+    <title>Бабайнейро</title>
+    <script src="client.js"></script>
+</head>
+<body>
+<div class="demo">
+    <h1>Бабайнейро Chat </h1>
+ 
+    <div class="chat">
+        <div class="messages" id="messages"></div>
+ 
+        <div class="panel">
+            <span class="nick"></span>
+            <input type="text" autofocus placeholder="Введите ник" name="nameU" id="user_name">
+            <div id="btn_user">OK</div>
+            <input type="text" placeholder="Введите сообщение" name="message_text" id="message_text">
+            <div id="message_btn">Отпр</div>
+        </div>
+    </div>
+</div>
+<audio id="audioGet">
+    <source src="get.mp3"></source>
+</audio>
+<audio id="audioConnected">
+    <source src="connected.mp3"></source>
+</audio>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="http://localhost:8080/socket.io/socket.io.js"></script>
+<script src="client.js"></script>
+</body>
+</html>
